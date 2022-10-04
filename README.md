@@ -24,4 +24,9 @@ Run the handTracker.py python file.
 
 # How to Use
 - Use pointer finger to move cursor
-- Close point finger and have thumb extended in order to click
+- Close point finger and have thumb extended in order to click (left click)
+
+# Next steps
+- Drag and drop functions
+- Right click
+- Toggle
