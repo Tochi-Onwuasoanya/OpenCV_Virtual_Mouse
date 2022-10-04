@@ -11,7 +11,7 @@ Libraries/packages:
 - openCV - For camera feed, image processing, and drawing
 - mediapipe - Employs machine learning to infer 3D landmarks of the - hand from single frames in real-time without any fancy hardware acceleration. Used for hand tracking in the program
 - autopy - For controlling the mouse movement and click
-- numpy
+- numpy - For working with arrays
 
 # Installation
 To setup the system for development on your local machine, please follow the instructions below:
