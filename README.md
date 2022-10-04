@@ -20,7 +20,7 @@ Clone the repository to your machine
 
 git clone https://github.com/tochi-onwuasoanya/OpenCV_Virtual_Mouse.git
 
-Run the handTracker.py python file.
+Run the virtualmouse.py python file.
 
 # How to Use
 - Use pointer finger to move cursor
