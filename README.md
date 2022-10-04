@@ -18,7 +18,7 @@ To setup the system for development on your local machine, please follow the ins
 
 Clone the repository to your machine
 
-git clone https://github.com/tochi-onwuasoanya/OpenCV_Virtual_Mouse.git
+git clone https://github.com/Tochi-Onwuasoanya/OpenCV_Virtual_Mouse.git
 
 Run the virtualmouse.py python file.
 
