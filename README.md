@@ -25,7 +25,7 @@ Run the virtualmouse.py python file.
 # How to Use
 - Use pointer finger to move cursor
 - Close point finger and have thumb extended in order to click (left click)
-- **[View the [Demo](([https://drive.google.com/file/d/1fLIwELAQYQB2JngZqpHKeaHs7rFX5NtA/view?usp=sharing]))]**
+- **[View the [Demo](https://drive.google.com/file/d/1fLIwELAQYQB2JngZqpHKeaHs7rFX5NtA/view?usp=sharing)**
 
 # Next steps
 - Drag and drop functions
