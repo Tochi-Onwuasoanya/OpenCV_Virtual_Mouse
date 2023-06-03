@@ -1,0 +1,4 @@
+openCV 
+mediapipe 
+autopy 
+numpy
