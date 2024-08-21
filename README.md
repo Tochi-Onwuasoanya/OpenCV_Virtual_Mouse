@@ -1,5 +1,5 @@
 # OpenCV_Virtual_Mouse_
-An AI based Python program that allows user to virtually control their mouse using hand movements.The program uses a real-time camera that detects hand landmarks, tracks gesture patterns instead of a physical mouse.
+An Python program that allows user to virtually control their mouse using hand movements.The program uses a real-time camera that detects hand landmarks, tracks gesture patterns instead of a physical mouse.
 
 # Languages and Dependencies 
 Languages:
